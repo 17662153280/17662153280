@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm YANG YAOBING</h1>
-<h3 align="center">A graduate eagerly seeking an internship</h3>
+<h3 align="center">AI benefits humanity</h3>
 
 - 🌱 I’m currently learning **Embedded Artificial Intelligence**
 
-- 🤝 I am looking for **an internship related to Data Analytics or AI Engineer for 4 to 6 months.**
+- 🤝 I am looking for **A formal job related to artificial intelligence.**
 
-- 📫 How to reach me **yaobing202402@sina.com**
+- 📫 How to reach me **yaobing202402@sina.com** or **qfnu355@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yaobing-yang-4995a8308/](https://www.linkedin.com/in/yaobing-yang-4995a8308/)
 
